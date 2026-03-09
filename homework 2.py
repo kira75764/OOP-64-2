@@ -4,8 +4,7 @@ class Hero:
         self.health = health
         self.level = level
         self.strength = strength
-
-
+#ggssd
 class mage(Hero):
     def __init__(self, name, health, level, strength, mana):
         super().__init__(name, health, level, strength)
